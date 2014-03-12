@@ -1,0 +1,133 @@
+body{
+	background-color: black;
+	background-image: url("buymorelogo.png");
+	background-repeat: no-repeat;
+	background-size: 50%;
+
+}
+
+h3{
+	position:absolute;
+	left:25px;
+	top:150px;
+	color:green;
+	font-family: "Verdana";
+}
+
+table{
+	color:white;
+}
+
+.tabla_describe{
+	position:absolute;
+	left:100px;
+	top:150px;
+	background-color: green;
+	font-family: "Verdana";
+	border-style: dotted;
+	border: 7;
+}
+
+.link_listado_productos{
+	font-family: "Verdana";
+	color: blue;
+	position:absolute;
+	left:100px;
+	top:150px;
+}
+
+.tabla_login{
+	position:absolute;
+	left:25px;
+	top:200px;
+	background-color: green;
+	font-family: "Verdana";
+	border-style: dotted;
+	border: 7;
+}
+
+.link_registra{
+	font-family: "Verdana";
+	color: green;
+	position:absolute;
+	left:25px;
+	top:325px;
+}
+
+.tabla_mostracar{
+	position:absolute;
+	left:25px;
+	top:200px;
+	background-color: green;
+	font-family: "Verdana";
+	border-style: dotted;
+	border: 7;
+}
+
+.link_pdf{
+	font-family: "Verdana";
+	color: blue;
+	position:absolute;
+	left:400px;
+	top:150px;
+}
+
+.img_productos{
+	position:absolute;
+	left:25px;
+	top:200px;
+	background-color: green;
+	font-family: "Verdana";
+	border-style: dotted;
+	border: 7;
+}
+
+.tabla_productos{
+	position:absolute;
+	left:25px;
+	top:350px;
+	background-color: green;
+	font-family: "Verdana";
+	border-style: dotted;
+	border: 7;
+}
+
+.link_carrito{
+	font-family: "Verdana";
+	color: green;
+	position:absolute;
+	left:225px;
+	top:5px;
+}
+
+.link_salir{
+	font-family: "Verdana";
+	color: green;
+	position:absolute;
+	left:125px;
+	top:5px;
+}
+
+.link_login{
+	font-family: "Verdana";
+	color: green;
+	position:absolute;
+	left:325px;
+	top:5px;
+}
+
+
+.link_regresar{
+	font-family: "Verdana";
+	color: green;
+	position:absolute;
+	left:125px;
+	top:5px;
+}
+
+.campo{
+	font-family: "Verdana";
+	position: absolute;
+	top: 168px;
+	left: 240px;
+}
