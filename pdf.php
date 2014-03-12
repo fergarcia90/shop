@@ -21,7 +21,7 @@
 			$i++;
 		}
 
-		$pdf->ezTable($data,"","Reporte de Alumnos",array('width'=>500));
+		$pdf->ezTable($data,"","Productos",array('width'=>500));
 
 		$pdf->ezStream();
 		exit;

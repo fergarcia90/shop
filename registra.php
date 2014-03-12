@@ -113,7 +113,7 @@ include "conexion.php";
 			<th>Usuario</th><td><input type="text" name="usr" id="usr" /></td>
 		</tr>
 		<tr>
-			<th>Contraseña</th><td><input type="text" name="pass" id="pass" /></td>
+			<th>Contraseña</th><td><input type="password" name="pass" id="pass" /></td>
 		</tr>
 		<tr>
 			<th>Nombre</th><td><input type="text" name="nombre" id="nombre" /></td>
